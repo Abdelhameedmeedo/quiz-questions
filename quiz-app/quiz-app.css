@@ -1,0 +1,89 @@
+.app-page .app-info{
+    background-color: rosybrown;
+    display: inline-flex;
+    width: 100%;
+    padding: 15px 50px;
+}
+.app-info .catagories{
+    position: relative;
+}
+.app-info .Q-count{
+    position: relative;
+    left: 30%;
+}
+.app-info .time-counter{
+    position: relative;
+    left: 64%;
+}
+.app-page .Q-title{
+    background-color: thistle;
+    padding: 15px 50px;
+}
+.app-page .Q-title h2{
+    text-align: center;
+}
+.app-page .Q-area{
+    background-color: teal;
+    padding: 15px 50px;
+}
+.app-page .Q-area .Q-answer{
+    color: white;
+    padding-top: 15px;
+}
+.app-page .Q-area .Q-answer:not(:last-child){
+    border-bottom: 1px solid black;
+}
+.app-page .Q-area .Q-answer input{
+    cursor: pointer;
+}
+  /*checked its mean the element is clicked*/
+.app-page .Q-area .Q-answer input[type="radio"]:checked + label{
+   color: yellowgreen;
+}
+.app-page .Q-area .Q-answer label{
+    padding-left: 10px;
+    cursor: pointer;
+}
+.app-page .btn{
+    position: relative;
+    left: 80%;
+    background-color: green;
+    color: white;
+    bottom: -11px;
+    border-radius: 8px;
+    outline: none;
+    border: none;
+}
+.app-page .btn:focus{
+    outline: none;
+}
+.app-page .bullets{
+    background-color: gray;
+    display: flex;
+    padding: 15px 50px;
+    margin-top: -36px;
+}
+.app-page .bullets .span-container{
+    display: flex;
+    flex: 1;
+}
+.app-page .bullets .span-container span{
+   width: 30px;
+   height: 30px;
+   border-radius: 50px;
+   background-color:white;
+   margin-left: 10px;
+   position: relative;
+   left: -2%;
+}
+.app-page .bullets .span-container span.on{
+    background-color: steelblue;
+}
+.app-page .result{
+    position: relative;
+    width: 238px;
+    height: 30px;
+    background: blueviolet;
+    color: white;
+    padding: 0 0 0 10px;
+}

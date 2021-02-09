@@ -1,0 +1,82 @@
+[
+    {
+        "title":"how many DataBase Adminstrator are ?",
+        "answer_1":"they are 7",
+        "answer_2":"they are 3",
+        "answer_3":"they are 6",
+        "answer_4":"they are 10",
+        "right_answer":"they are 6"
+    },
+    {
+        "title":"what is the brief of DataBase ?",
+        "answer_1":"Dt",
+        "answer_2":"Bd",
+        "answer_3":"DD",
+        "answer_4":"DB",
+        "right_answer":"DB"
+    },
+    {
+        "title":"how many Relationship kinds ?",
+        "answer_1":"they are 4",
+        "answer_2":"they are 3",
+        "answer_3":"they are 2",
+        "answer_4":"they are 01",
+        "right_answer":"they are 3"
+    },
+    {
+        "title":"they are all kinds of DataBase Managements exept ?",
+        "answer_1":"Oracle",
+        "answer_2":"PHP",
+        "answer_3":"SQL",
+        "answer_4":"Mysql",
+        "right_answer":"PHP"
+    },
+    {
+        "title":"DataBase is used in ?",
+        "answer_1":"front-end",
+        "answer_2":"back-end",
+        "answer_3":"wed developer",
+        "answer_4":"web designer",
+        "right_answer":"back-end"
+    },
+    {
+        "title":"storage is used in ?",
+        "answer_1":"Design stage",
+        "answer_2":"run stage",
+        "answer_3":"query stage",
+        "answer_4":"build stage",
+        "right_answer":"build stage"
+    },
+    {
+        "title":"what are kinds of participation ?",
+        "answer_1":"partial",
+        "answer_2":"one-to-one",
+        "answer_3":"one-to-many",
+        "answer_4":"partial and full participation",
+        "right_answer":"partial and full participation"
+    },
+    {
+        "title":"when we link between two entity we use ?",
+        "answer_1":"Rlationship",
+        "answer_2":"attribute",
+        "answer_3":"primary-key",
+        "answer_4":"entity",
+        "right_answer":"Rlationship"
+    },
+    {
+        "title":"a man who is responsible for manage for all DB team ?",
+        "answer_1":"DB manager",
+        "answer_2":"DB desinger",
+        "answer_3":"DB programer",
+        "answer_4":"DB analyist",
+        "right_answer":"DB manager"
+    },
+    {
+        "title":"who is responsible for desing ?",
+        "answer_1":"DB analyist",
+        "answer_2":"software engineering",
+        "answer_3":"DB analyist",
+        "answer_4":"no one",
+        "right_nswer":"no one"
+    }
+]
